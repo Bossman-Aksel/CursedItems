@@ -1,0 +1,2 @@
+# CursedItems
+Lethal Company Mod
